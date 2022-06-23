@@ -2,6 +2,8 @@
 
 Chromium browser extension to prevent NSFW images from being displayed on screen
 
+<img src="https://user-images.githubusercontent.com/77957756/175358027-319290c5-cc3a-4cbb-8bad-c0fed9905f03.png"  height=260 align="right">
+
 ## Features
 
 - Adult content detection technology identifies explicit content in images that are not safe for work or other public places. 
